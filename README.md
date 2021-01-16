@@ -8,4 +8,5 @@ Proyecto creado con Laravel 7 para el backend, Vue 2.5.17 para frontend y median
 3.	composer install - para instalar todas las dependencias del backend
 4.	npm install - para instalar todas las dependencias del frontend
 5.	npm run dev 
-5.	php artisan serve - para ejecutar el proyecto en un servidor de desarrollo
+6.	pegar el archivo .env en la raiz del proyecto
+7.	php artisan serve - para ejecutar el proyecto en un servidor de desarrollo
